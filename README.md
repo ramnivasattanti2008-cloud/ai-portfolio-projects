@@ -1,6 +1,6 @@
 # 🚀 AI Portfolio — Attanti Ramnivas
 
-> **14 production-ready AI applications** | RAG • NLP • LLMs • Gemini • Streamlit
+> **15 production-ready AI applications** | RAG • NLP • LLMs • Gemini • Streamlit
 
 ---
 
