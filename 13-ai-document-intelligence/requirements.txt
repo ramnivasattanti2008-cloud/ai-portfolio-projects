@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+python-dotenv
+fitz  # PyMuPDF for PDF
+python-docx  # DOCX support
+pandas  # CSV support
+pytesseract  # OCR for images
+Pillow  # Image processing
