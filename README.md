@@ -1,6 +1,6 @@
 # 🚀 AI Portfolio — Attanti Ramnivas
 
-> **15 production-ready AI applications** | RAG • NLP • LLMs • Gemini • Streamlit
+> **18 production-ready AI applications** | RAG • NLP • LLMs • Gemini • Streamlit
 
 ---
 
@@ -21,7 +21,7 @@ Building intelligent systems that solve real problems 🚀
 
 ---
 
-## 🏆 All 14 AI Projects
+## 🏆 All 18 AI Projects
 
 ### 🤖 LLMs & Generative AI
 
@@ -51,6 +51,17 @@ Building intelligent systems that solve real problems 🚀
 |---|---------|-------------|------|--------|
 | 🌤️ 13 | **Weather Insights** | AI weather analysis + alerts | OpenWeather, Gemini | ✅ |
 | 🍅 14 | **Todo + Pomodoro** | Productivity timer + task list | Streamlit | ✅ |
+
+---
+
+### 🎯 Specialized AI Tools
+
+| # | Project | Description | Tech | Status |
+|---|---------|-------------|------|--------|
+| 15 | **AI Interview Coach** | Mock interview practice with feedback | Gemini, Streamlit | ✅ |
+| 16 | **Meeting Summarizer** | Auto-transcribe + summarize meetings | Gemini, Streamlit | ✅ |
+| 17 | **PDF Q&A** | Ask questions about any PDF | Gemini, PyMuPDF | ✅ |
+| 18 | **AI News Digest** | Personalized daily AI news | Gemini, NewsAPI | ✅ |
 
 ---
 
