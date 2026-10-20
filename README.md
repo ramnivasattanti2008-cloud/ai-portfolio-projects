@@ -21,6 +21,44 @@ Building intelligent systems that solve real problems 🚀
 
 ---
 
+## 🌐 Portfolio Website (New)
+
+A production-ready frontend portfolio now lives in:
+
+- **Path:** [`/portfolio`](./portfolio)
+- **Stack:** Vite + Vanilla JS + CSS
+- **Canonical repo:** [github.com/ramnivasattanti2008-cloud/ai-portfolio-projects](https://github.com/ramnivasattanti2008-cloud/ai-portfolio-projects)
+
+### Run locally
+
+```bash
+cd portfolio
+npm install
+npm run dev
+```
+
+### Production build
+
+```bash
+cd portfolio
+npm run build
+```
+
+### GitHub Pages deployment
+
+This repository includes a workflow at:
+`/.github/workflows/deploy-portfolio.yml`
+
+One-time setup in GitHub:
+1. Open **Settings → Pages**
+2. Set **Source** to **GitHub Actions**
+3. Push to `main` (or run the workflow manually)
+
+The site is configured for project Pages URL:
+`https://ramnivasattanti2008-cloud.github.io/ai-portfolio-projects/`
+
+---
+
 ## 🏆 All 18 AI Projects
 
 ### 🤖 LLMs & Generative AI

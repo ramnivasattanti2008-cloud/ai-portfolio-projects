@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="AR monogram icon">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8c6bff" />
+      <stop offset="100%" stop-color="#2fd4ff" />
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="52" fill="#070b16"/>
+  <path d="M66 188 108 68h40l42 120h-28l-9-27h-50l-9 27H66Zm46-50h33l-16-47-17 47Zm83 50V68h26v120h-26Z" fill="url(#g)"/>
+</svg>
