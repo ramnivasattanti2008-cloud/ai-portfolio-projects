@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ramnivasattanti2008-cloud.github.io/ai-portfolio-projects/sitemap.xml

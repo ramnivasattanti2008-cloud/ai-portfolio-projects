@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="AI Portfolio preview image">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070b16" />
+      <stop offset="100%" stop-color="#151f3a" />
+    </linearGradient>
+    <linearGradient id="text" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8c6bff" />
+      <stop offset="100%" stop-color="#2fd4ff" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1040" cy="120" r="130" fill="#8c6bff" opacity="0.25"/>
+  <circle cx="140" cy="540" r="110" fill="#2fd4ff" opacity="0.2"/>
+  <text x="90" y="250" fill="#e7ecff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="52" font-weight="700">Attanti Ramnivas</text>
+  <text x="90" y="320" fill="url(#text)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="42" font-weight="700">AI Portfolio Projects</text>
+  <text x="90" y="390" fill="#b8c2e4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30">Gemini • RAG • NLP • LangChain • Streamlit</text>
+  <text x="90" y="470" fill="#b8c2e4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24">github.com/ramnivasattanti2008-cloud/ai-portfolio-projects</text>
+</svg>
